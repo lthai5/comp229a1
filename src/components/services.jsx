@@ -1,3 +1,9 @@
+/* 
+  File Name: services.jsx
+  Student’s Name: Lagrange
+  StudentID: 301229509
+  Date: 05/20/2024
+*/
 import React from 'react';
 import WebDev from '../assets/webdev.jpg';
 import MobDev from '../assets/mobdev.jpg';

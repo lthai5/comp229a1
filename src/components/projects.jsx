@@ -1,3 +1,9 @@
+/* 
+  File Name: projects.jsx
+  Student’s Name: Lagrange
+  StudentID: 301229509
+  Date: 05/20/2024
+*/
 import React from 'react';
 import ProjectAI from '../assets/projectai.jpg';
 import ProjectDA from '../assets/projectdataanalyst.jpg';
@@ -6,6 +12,7 @@ import ProjectSD from '../assets/projectsoftdev.jpg';
 export default function Projects(){
     return (
         <>
+            {/* Main Content */}
             <h1>Projects</h1>
             <div>
                 <img src={ProjectAI} style={{ width: '50%', height: '50%' }} />
